@@ -1,2 +1,4 @@
-# frontend
-Frontend, Blok TECH - CMD (Year 2)
+# About this repository
+# Best practices
+# Image Gallery
+# Asyng API Data
