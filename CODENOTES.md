@@ -2,8 +2,8 @@
 
 ## Chapter 1: What is Scope?
 
-It is *important* to store values in variables to later retrieve or modify these values.
-_Storing & Pulling_ values is very important.
+> It is *important* to store values in variables to later retrieve or modify these values.
+> _Storing & Pulling_ values is very important.
 
 ### Compiler Theory
 
