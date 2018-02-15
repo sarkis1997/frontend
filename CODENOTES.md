@@ -23,6 +23,9 @@ _Storing & Pulling_ values is very important.
 
 #### Compiler Speak
 
+Left-hand - is als je iets toewijst, bijv A = 23. (je wijst iets toe.)
+Right-hand - is je vraagt iets op. Wat is A? 
+
 #### Engine/Scope Conversation
 
 #### Quiz
